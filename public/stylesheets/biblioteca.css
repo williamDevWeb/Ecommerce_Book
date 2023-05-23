@@ -1,0 +1,15 @@
+
+.nav-genero{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+.nav-genero a{
+    color: black;
+}
+.nav-genero a:hover{
+    background-color: var(--azul-claro);
+}
+#center_page{
+    min-height: 100vh;
+}
